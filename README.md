@@ -1,1 +1,32 @@
-# tra
+# <!Doctype html>
+<html>
+<head>
+<title>College CoSt</title>
+<lonk rel="icon" type="image/x-icon"href=ïmges/icon.jpg">
+</head>
+<body style="background-color:lightgray;">
+<h2 style="background-color:darkblue; color:white;vborder:2px solid green; font-family:kh Muol; font-size:200%; text-align:center;">មហាវិទ្យាល័យវិទ្យាសាស្រ្តនិងបច្ចេកវិទ្យា</h2>
+<a href="https://uc.edu.kh">visit collegevscience and Technology</a>
+<p style="color:darkblue; border:2px solid green;">
+1. Information Technology<br>
+2. Computer Science<br>
+3. ELECTRONiCS and Telecommunication<br>
+4. Graphic Design and Multimedia<br>
+5. Business Information Technology<br>
+6. Network Engineering and cyberscurity<br>
+7. Ai and Data Science
+</p>
+<p style="color:darkblue">
+Dean's Message Information On behalf of faculty members and staff of the College of Science and Technology I would like to welcome you to the College of Science and Technology at The University of Cambodia.
+The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013.B
+</p>
+<h2 style="background-color:darkblue; color:white;vborder:2px solid green; font-family:kh Muol; font-size:200%; text-align:center;">បន្ទុប់អនុវត្ត‍-Computer Labs</h2>
+<img src="img4.jpg" width="450" height="650">
+<img src="img2.jpg" width="450" height="650">
+<img src="img3.jpg" width="450" height="650">
+</body>
+<footer>
+<img src="img6.jpg" width="50" height="50">
+                                                   College Science and Technology Copyight@2025
+</footer>
+</html>
